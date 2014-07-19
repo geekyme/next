@@ -1,0 +1,1 @@
+// Server side config like Kadira credentials
