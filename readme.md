@@ -11,9 +11,10 @@ Packages:
 * accounts-entry
 * jade
 * stylus
+* spiderable
 
 ### Boilerplate design
-This boilerplate is meant to dictate structure and functionality, not styling. Each project's styles are unique and you may want to define your own styles and ui frameworks (bootstrap, foundation, semantic-ui, etc). That is the reason why I did not include any ui frameworks here. You may also wish to build your own bootstrap styles from [Bootstrap](http://getbootstrap.com).
+This boilerplate is meant to dictate structure and functionality with common packages, not styling. Each project's styles are unique and you may want to define your own styles and ui frameworks (bootstrap, foundation, semantic-ui, etc). That is the reason why I did not include any ui frameworks here. You may also wish to build your own bootstrap styles from [Bootstrap](http://getbootstrap.com).
 
 ### Modularity
 
@@ -29,3 +30,5 @@ This boilerplate removes the insecure and autopublish package. Using collection2
 ### Sample code
 This boilerplate uses a sample collection ````items```` that sets up a few fields just for example purposes. I deliberately did not include too many sample code so that its easy for you to set up your own.
 
+### Tests
+You may add your own tests into ````tests```` folder. I recommend taking a look at the new [Velocity](https://github.com/xolvio/velocity).
